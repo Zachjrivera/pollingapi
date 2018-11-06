@@ -1,6 +1,6 @@
 package com.zach.demopolls.controllers;
 
-import com.zach.demopolls.domains.Poll;
+import com.zach.demopolls.Poll;
 import com.zach.demopolls.repos.PollRepository;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;

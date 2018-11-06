@@ -1,4 +1,4 @@
-package com.zach.demopolls.domains;
+package com.zach.demopolls;
 
 import java.util.Set;
 import javax.persistence.CascadeType;

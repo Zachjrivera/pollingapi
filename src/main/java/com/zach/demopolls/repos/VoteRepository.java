@@ -1,6 +1,6 @@
 package com.zach.demopolls.repos;
 
-import com.zach.demopolls.domains.Vote;
+import com.zach.demopolls.Vote;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.CrudRepository;
 

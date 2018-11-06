@@ -1,4 +1,4 @@
-package com.zach.demopolls.domains;
+package com.zach.demopolls;
 
 
 import javax.persistence.Column;
