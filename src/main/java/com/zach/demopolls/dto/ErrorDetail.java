@@ -1,4 +1,4 @@
-package com.zach.demopolls.exceptions;
+package com.zach.demopolls.dto;
 
 import java.util.HashMap;
 import java.util.List;
@@ -11,7 +11,6 @@ public class ErrorDetail {
     private long timeStamp;
     private String developerMessage;
     private Map<String, List<ValidationError>> errors = new HashMap<String, List<ValidationError>>();
-
     public String getTitle() {
         return title;
     }
